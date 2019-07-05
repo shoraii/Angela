@@ -1,1 +1,5 @@
 TOKEN = '<TOKEN>'
+MOD_ROLE_NAME = 'Mod'
+USER_ROLE_NAME = 'User'
+
+GREETINGS_FILENAME = 'g.mp3'

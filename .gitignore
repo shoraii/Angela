@@ -13,6 +13,8 @@ __pycache__
 # database
 db.sqlite3
 
-# Profile Photos
-sharing/static/img/uploads*
-!.gitkeep
+# MP3's
+*.mp3
+
+# any executable
+*.exe
